@@ -5,6 +5,10 @@ I'm a highly enthusiastic developer-to-be, always eager to learn new technologie
 * 🎓 **Systems Engineering student** at Universidad Americana (UAM).
 * 📍 Based in Managua, Nicaragua.
 
+## 🗣️ Languages
+* **Spanish:** Native speaker.
+* **English:** B2+ level (Completed at UAM).
+
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)Currently studying and exploring.
 
