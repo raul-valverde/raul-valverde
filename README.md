@@ -16,6 +16,14 @@ I'm a highly enthusiastic developer-to-be, always eager to learn new technologie
 | <img src="https://img.shields.io/badge/Java-40%25-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 40%" /> | Currently studying | `████▒▒▒▒▒▒` |
 | <img src="https://img.shields.io/badge/C%23-20%25-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C# 20%" /> | Familiar with basics | `██▒▒▒▒▒▒▒▒` |
 
+## 📈 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raul-valverde&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-valverde&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 ## 📫 Let's Connect!
 * **LinkedIn:** [Raúl's LinkedIn](https://ni.linkedin.com/in/raul-natanael-valverde-ruiz-272b1236a)
 * **Email:** [raulvruiz@uamv.edu.ni](mailto:raulvruiz@uamv.edu.ni)
