@@ -9,12 +9,11 @@ I'm a highly enthusiastic developer-to-be, always eager to learn new technologie
 * **Spanish:** Native speaker.
 * **English:** B2+ level (Completed at UAM).
 
-## 🛠️ Tech Stack
+## 🛠️ I'm learning
 | Technology | Status | Progress |
 | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/Python-50%25-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python 50%" /> | Actively learning | `█████▒▒▒▒▒` |
 | <img src="https://img.shields.io/badge/Java-40%25-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 40%" /> | Currently studying | `████▒▒▒▒▒▒` |
-| <img src="https://img.shields.io/badge/C%23-20%25-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C# 20%" /> | Familiar with basics | `██▒▒▒▒▒▒▒▒` |
 
 ## 📈 My GitHub Stats
 
